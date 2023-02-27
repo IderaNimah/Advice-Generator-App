@@ -68,9 +68,10 @@ button:hover{
   margin-top: 4rem;
   font-size: 11px;
   text-align: center;
+  color: var(--Light-Cyan);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color:var(--Neon-Green);
 }
 
 @media screen and (max-width:500px){
